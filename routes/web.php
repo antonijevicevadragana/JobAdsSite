@@ -70,7 +70,7 @@ Route::get('/listings/manage', [ListingController::class, 'manage'])->middleware
 Route::get('/listings/{listing}', [ListingController::class, 'show'])->name('show');
 
 //register crate form
-Route::get('/register', [UUserConroller::class, 'crate'])->name('register');
+Route::get('/register', [UserConroller::class, 'crate'])->name('register');
 
 
 
