@@ -1,3 +1,4 @@
+<img src=./ImgReadMe/jobAdsImg.png width='150%'>
 <h3 align="left">Job posting application</h3>
 <p>Registered users can post job advertisements, as well as modify or delete the ads they have posted.</p>
 <p>All users can view all job advertisements.</p>
